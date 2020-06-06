@@ -58,7 +58,7 @@ restart.scale = 0.5;
 }
 
 function draw() {
-  background(180);
+  background(255);
    //display score
   text("Score: "+ count, 500, 50);
   if (x==1) {
